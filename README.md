@@ -1,4 +1,4 @@
-#NEXCOM™ 
+NEXCOM™ 
 
 NEX = a connected group or series
 COM = Communication
