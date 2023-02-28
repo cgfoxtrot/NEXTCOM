@@ -1,6 +1,6 @@
 NEXCOM™ 
 
-NEX = a connected group or series
+NEX = A connection or series of connections linking two or more things.
 
 COM = Communication
 
